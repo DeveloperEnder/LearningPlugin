@@ -1,0 +1,9 @@
+me\aly\learningplugin\listeners\XPBottleBreakListener.class
+me\aly\learningplugin\commands\FlyCommand.class
+me\aly\learningplugin\utils\shortcutTags.class
+me\aly\learningplugin\commands\GodCommand.class
+me\aly\learningplugin\listeners\JoinLeaveListener.class
+me\aly\learningplugin\events\BedEvent.class
+me\aly\learningplugin\commands\HealCommand.class
+me\aly\learningplugin\LearningPlugin.class
+me\aly\learningplugin\commands\Gamemode.class

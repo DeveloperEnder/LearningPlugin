@@ -1,0 +1,38 @@
+name: LearningPlugin
+version: '1.0-SNAPSHOT'
+main: me.aly.learningplugin.LearningPlugin
+api-version: 1.19
+authors: [ Aly, xAlxy, Tyler Prewitt, DeveloperEnder ]
+description: Plugin For Learning
+website: tydiumcraft.net
+
+commands:
+  god:
+    permission: learn.god
+    description: Become Invincible
+    aliases:
+      - godmode
+
+  heal:
+    permission: learn.heal
+    description: Heal Yourself
+
+  fly:
+    permission: learn.fly
+    description: Fly
+
+  gms:
+    permission: learn.gms
+    description: Gamemode Survival
+
+  gmsp:
+    permission: learn.gmsp
+    description: Gamemode Spectator
+
+  gmc:
+    permission: learn.gmc
+    description: Gamemode Creative
+
+  gma:
+    permission: learn.gma
+    description: Gamemode Adventure
