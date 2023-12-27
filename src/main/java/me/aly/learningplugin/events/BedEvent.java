@@ -1,5 +1,7 @@
 package me.aly.learningplugin.events;
 
+import static me.aly.learningplugin.utils.shortcutTags.*;
+
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

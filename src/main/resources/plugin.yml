@@ -1,8 +1,8 @@
 name: LearningPlugin
 version: '${project.version}'
 main: me.aly.learningplugin.LearningPlugin
-api-version: 1.19
-authors: [ Aly, xAlxy, Tyler Prewitt, DeveloperEnder ]
+api-version: 1.20
+authors: [ DeveloperEndxr ]
 description: Plugin For Learning
 website: tydiumcraft.net
 
@@ -16,6 +16,10 @@ commands:
   heal:
     permission: learn.heal
     description: Heal Yourself
+
+  feed:
+    permission: learn.feed
+    description: Feed Yourself
 
   fly:
     permission: learn.fly
