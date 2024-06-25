@@ -31,7 +31,7 @@ import org.bukkit.entity.Player;
             if (args.length == 0 && sender instanceof Player) {
                 Player player = (Player) sender;
                 if (player.getGameMode() == gamemode) {
-                    sender.sendMessage(PREFIX + ChatColor.RED + "Already in " + player.getGameMode());
+                    sender.sendMessage(PREFIX + ChatColor.RED + "You are aleady in " + player.getGameMode());
                 } else {
                     sender.sendMessage(PREFIX + ChatColor.GREEN + "Gamemode changed to " + ChatColor.BLUE + gamemode.name());
                     player.setGameMode(gamemode);

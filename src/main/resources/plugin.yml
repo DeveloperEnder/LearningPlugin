@@ -4,7 +4,7 @@ main: me.aly.learningplugin.LearningPlugin
 api-version: 1.20
 authors: [ DeveloperEndxr ]
 description: Plugin For Learning
-website: tydiumcraft.net
+website: discord.gg/mc-dev
 
 commands:
   god:
